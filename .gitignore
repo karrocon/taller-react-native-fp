@@ -1,0 +1,44 @@
+# Node
+node_modules/
+.expo/
+dist/
+*.tsbuildinfo
+
+# LaTeX auxiliares
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code local
+.vscode/settings.json
+
+# Archivos fuera de react-native/ — solo local, no en el repo
+/*.pdf
+/*.md
+/*.ps1
+
+# Fuentes LaTeX — compilar en Overleaf, no subir los .tex al repo
+*.tex
+/*.odt
+/*.docx
+
+# Materiales internos del instructor — no para alumnos
+react-native/carlos.jpg
+react-native/curso_react_native_fp_assets_completo.md
+react-native/planificacion-global.md
+react-native/presupuesto-reactnative.md
+react-native/taller-reactnative.md
+
+_template_assets/

@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "RN Ejercicios Día 1",
+    "slug": "rn-ejercicios-dia01",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "newArchEnabled": true
+  }
+}
